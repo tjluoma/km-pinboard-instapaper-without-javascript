@@ -3,9 +3,14 @@ km-pinboard-instapaper-without-javascript
 
 **TL;DR Summary:** _How to send a web browser's current URL to [Pinboard][1] or [Instapaper][2] without JavaScript_
 
-
 I have created a [Fluid.app][3] browser which receives all my links from [Tweetbot][4] thanks to a [Choosy][5] rule.
 
+
+![Choosy Advanced Filter](img/choosy-filter.png)
+
+![Fluid's Security Settings](img/fluid-security.jpg)
+
+![Fluid's Whitelist Settings](img/fluid-whitelist.jpg)
 
 This Fluid browser sets its User Agent to iPhone and has plugins and JavaScript disabled. Why? Because too many sites cannot be trusted with either of the latter, and the iPhone User Agent gets the mobile version of most sites, which is generally less cluttered.
 
