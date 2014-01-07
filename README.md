@@ -6,7 +6,7 @@ km-pinboard-instapaper-without-javascript
 I have created a [Fluid.app][3] browser which receives all my links from [Tweetbot][4] thanks to a [Choosy][5] rule.
 
 
-Here's the [Choosy][5] filter:
+Here's the [Choosy][5] filter (Note that my Fluid.app browser is named [t.co](http://t.co/) after Twitter’s domain name):
 ![Choosy Advanced Filter](img/choosy-filter.png)
 
 And here are the [Fluid.app][3] settings: 
