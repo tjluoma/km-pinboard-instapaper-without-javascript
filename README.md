@@ -75,4 +75,4 @@ Download
 [4]: http://tapbots.com/software/tweetbot/
 [5]: http://www.choosyosx.com/
 [6]: http://www.keyboardmaestro.com/main/
-[7]: KeyboardMaestro/Manually-Pinboard-and-Instapaper.kmmacros
+[7]: https://raw.github.com/tjluoma/km-pinboard-instapaper-without-javascript/master/KeyboardMaestro/Manually-Pinboard-and-Instapaper.kmmacros
