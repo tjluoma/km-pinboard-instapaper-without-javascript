@@ -1,7 +1,7 @@
 km-pinboard-instapaper-without-javascript
 =========================================
 
-**TL;DR Summary:** How to send a web browser's current URL to [Pinboard][1] or [Instapaper][2] without JavaScript
+**TL;DR Summary:** _How to send a web browser's current URL to [Pinboard][1] or [Instapaper][2] without JavaScript_
 
 
 I have created a [Fluid.app][3] browser which receives all my links from [Tweetbot][4] thanks to a [Choosy][5] rule.
